@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f7f7f7;
-    color: #333;
+    color: #5a5757;
     transition: background-color 0.3s ease;
 }
 
@@ -132,7 +132,7 @@ s {
 }
 
 .social-links a {
-    color: #ddd;
+    color: #e9e1e1;
     text-decoration: none;
     transition: color 0.3s ease-in-out;
 }
@@ -170,7 +170,7 @@ s {
 }
 
 .slider {
-    background-color: #ccc;
+    background-color: #ebe4e4;
     bottom: 0;
     cursor: pointer;
     left: 0;
@@ -192,7 +192,7 @@ s {
 }
 
 input:checked+.slider {
-    background-color: #2196F3;
+    background-color: #2095f4;
 }
 
 input:checked+.slider:before {
